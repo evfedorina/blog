@@ -8,17 +8,10 @@ summary: Надеюсь вам понравится пост
 # Link this post with a project
 projects: []
 
-# Date published
-date: '2022-05-04T00:00:00Z'
-
-# Date updated
-lastmod: '2022-05-04T00:00:00Z'
-
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
+date: 2022-05-04T11:19:14+03:00
+lastmod: 2022-05-04T11:19:14+03:00
 featured: false
+draft: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
