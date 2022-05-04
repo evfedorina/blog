@@ -1,5 +1,5 @@
 ---
-title: My first post!
+title: Welcome to Wowchemy, the website builder for Hugo
 subtitle: Добро пожаловать на мой первый пост: в его рамках я коснусь всего, чем занимался на прошлой неделею
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
