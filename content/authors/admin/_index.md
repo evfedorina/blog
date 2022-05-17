@@ -25,7 +25,7 @@ interests:
 
 # Education to show in About widget
 Education:
-  курсы:
+  courses:
     - курс: Бакалавриат(Математика и компьютерные науки)
       institution: РУДН(Российский Университет Дружбы Народов)
       год: 2021-2025
@@ -36,21 +36,18 @@ Education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+  - icon: telegram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://t.me/er_fed
+  - icon: vk
+    icon_pack: fab
+    link: https://www.vk.com/fedorina2014
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/evfedorina
+  - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.youtube.com/c/ErnestFedorina
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
