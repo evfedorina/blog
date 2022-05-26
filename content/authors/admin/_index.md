@@ -63,8 +63,7 @@ email: 'ernestmainmail@gmail.com'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Меня зовут Федорина Эрнест. Я студент Российского Университета Дружбы народов. В мои интересы входит: изучение компьютерной алгебры, различных высокоуровневых языков программирования, работа с базами и данных, совершенствование английского языка и тп. На данный момент заканчиваю первый курс по специальности "Математика и компьютерные науки".
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
