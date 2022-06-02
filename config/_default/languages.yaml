@@ -6,17 +6,33 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+ru:
+  languageCode: ru
+  contentDir: content/ru
+  title: Мой сайт
+  params:
+    description: Меня зовут Федорина Эрнест. Я студент Российского Университета Дружбы народов. В мои интересы входит изучение компьютерной алгебры, различных высокоуровневых языков программирования, работа с базами и данных, совершенствование английского языка и тп. На данный момент заканчиваю первый курс по специальности “Математика и компьютерные науки”.
+  menu:
+    main:
+      - name: Главная
+        url: '#about'
+        weight: 10
+      - name: Посты
+        url: '#posts'
+        weight: 20
+      - name: Проекты
+        url: '#projects'
+        weight: 30
+      - name: Подкасты
+        url: '#talks'
+        weight: 40
+      - name: Публикации
+        url: '#featured'
+        weight: 50
+      - name: Контакты
+        url: '#contact'
+        weight: 60
+        
